@@ -1,0 +1,1 @@
+# simple-_django_project_for_angular_routing
